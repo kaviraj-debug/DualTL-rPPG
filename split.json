@@ -1,0 +1,50 @@
+{
+  "train": [
+    "subject12",
+    "subject13",
+    "subject18",
+    "subject20",
+    "subject22",
+    "subject23",
+    "subject24",
+    "subject27",
+    "subject30",
+    "subject31",
+    "subject32",
+    "subject33",
+    "subject34",
+    "subject35",
+    "subject36",
+    "subject37",
+    "subject38",
+    "subject4",
+    "subject40",
+    "subject41",
+    "subject43",
+    "subject44",
+    "subject46",
+    "subject47",
+    "subject48",
+    "subject49",
+    "subject5",
+    "subject9"
+  ],
+  "val": [
+    "subject1",
+    "subject11",
+    "subject14",
+    "subject39",
+    "subject42",
+    "subject45"
+  ],
+  "test": [
+    "subject10",
+    "subject15",
+    "subject16",
+    "subject17",
+    "subject25",
+    "subject26",
+    "subject3",
+    "subject8"
+  ]
+}
