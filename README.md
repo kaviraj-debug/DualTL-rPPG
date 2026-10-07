@@ -10,8 +10,11 @@ This repository contains a complete deep learning pipeline for estimating heart 
 
 The project leverages Computer Vision (for facial mesh tracking and region-of-interest extraction) and Deep Learning (1D-CNNs, GRU, and DualTL) to analyze subtle color variations in the human face and predict the underlying pulse. It also features live webcam inference and Explainable AI (XAI) techniques, such as Grad-CAM and occlusion mapping, to visualize exactly how the models interpret facial regions to detect heart rate.
 
-*(Placeholder: Add a screenshot of the live webcam inference or a performance graph here!)*
-`![Demo](path/to/your/image.png)`
+### How the Model "Sees" the Pulse
+![Explainability Visualization](docs/explain_demo.png)
+
+### Live HR Prediction
+![Live HR Prediction](docs/live_demo.png)
 
 ## Key Features
 - **Live Inference:** Real-time heart rate estimation directly from a webcam feed using facial landmarks.
